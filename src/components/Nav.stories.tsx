@@ -8,6 +8,6 @@ export default {
 
 export const Default = {
   args: {
-    state: "NAV_DEFAULT",
+    state: "Nav_DEFAULT",
   },
 };
