@@ -18,6 +18,9 @@ const config: Config = {
         secondary: "#646F7C",
         third: "#999999",
       },
+      boxShadow: {
+        figma: "0px 4px 4px 0px rgba(0, 0, 0, 0.25)",
+      },
     },
   },
   plugins: [],
